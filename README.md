@@ -19,12 +19,12 @@ To get started with NepalTours, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tourify-app.git
+   git clone https://github.com/everestkid/nepal-tours.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd tourify-app
+   cd nepal-tours
    ```
 
 3. Install dependencies:
@@ -39,12 +39,12 @@ To get started with NepalTours, follow these simple steps:
    npm run dev
    ```
 
-2. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to explore Tourify.
+2. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to explore NepalTours.
 
 ## Technologies Used
 
 - **Next.js:** A React-based framework for building fast and scalable web applications.
-
+ 
 - **GSAP (GreenSock Animation Platform):** A powerful JavaScript animation library for creating smooth and interactive animations.
 
 - **Bootstrap:** A popular CSS framework for creating responsive and mobile-first websites.
@@ -53,10 +53,10 @@ To get started with NepalTours, follow these simple steps:
 
 ## Contributing
 
-We welcome contributions from the community. If you find any issues or have ideas for improvements, please feel free to open an issue or submit a pull request. Check out our [contribution guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions from the community. If you find any issues or have ideas for improvements, please feel free to open an issue or submit a pull request. 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
-Happy traveling with Tourify! 🌍✈️
+Happy traveling with NepalTours! 🌍✈️
