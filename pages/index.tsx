@@ -1,14 +1,11 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import Image from "next/image";
 import styles from "../styles/Home.module.scss";
-import CustomCarousel from "./components/Carousel";
 import React, { useEffect, useLayoutEffect, useRef } from "react";
 import { Parallax, useParallax } from "react-scroll-parallax";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 import { ScrollToPlugin } from "gsap/dist/ScrollToPlugin";
-import mountainComponent from "./components/mountain";
 import MountainComponent from "./components/mountain";
 
 gsap.registerPlugin(ScrollTrigger, ScrollToPlugin); // Register the plugins
@@ -452,7 +449,7 @@ const Home: NextPage = () => {
               <div className="mt-2">
                 <h1 className={styles.sub_section_heading}>LIVING HERITAGE</h1>
                 <p className={styles.section_text}>
-                In this land of diverse ethnic groups, traditions weave through the tapestry of everyday life. From the vibrant festivals like Dashain and Tihar to the ancient temples and palaces of Kathmandu Durbar Square, Nepal's cultural richness unfolds in every corner. Explore the living heritage sites, witness traditional arts and crafts, and engage with warm-hearted locals eager to share their stories. As you journey through this enchanting landscape, you&apos;ll discover that Nepal&apos;s true beauty lies not only in its majestic mountains but also in the vibrant, welcoming communities that make it a unique and unforgettable experience.
+                In this land of diverse ethnic groups, traditions weave through the tapestry of everyday life. From the vibrant festivals like Dashain and Tihar to the ancient temples and palaces of Kathmandu Durbar Square, Nepal&apos;s cultural richness unfolds in every corner. Explore the living heritage sites, witness traditional arts and crafts, and engage with warm-hearted locals eager to share their stories. As you journey through this enchanting landscape, you&apos;ll discover that Nepal&apos;s true beauty lies not only in its majestic mountains but also in the vibrant, welcoming communities that make it a unique and unforgettable experience.
                 </p>
               </div>
             </div>
