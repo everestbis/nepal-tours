@@ -351,7 +351,7 @@ const Home: NextPage = () => {
                   </div>
                   <h3>Himalayan Wonders</h3>
                   <p>
-                    Discover Nepal's awe-inspiring landscapes, from the world's
+                    Discover Nepal&apos;s awe-inspiring landscapes, from the world&apos;s
                     highest peaks to lush valleys. With iconic trekking trails
                     like Everest Base Camp, Nepal offers an unparalleled
                     adventure in nature.{" "}
@@ -374,7 +374,7 @@ const Home: NextPage = () => {
                   </div>
                   <h3>Cultural Treasures</h3>
                   <p>
-                    Uncover Nepal's rich heritage through ancient temples,
+                    Uncover Nepal&apos;s rich heritage through ancient temples,
                     UNESCO sites, and warm encounters with local traditions.
                   </p>
                 </div>
@@ -386,7 +386,7 @@ const Home: NextPage = () => {
                   </div>
                   <h3>Serene Spirituality</h3>
                   <p>
-                  Find tranquility in Nepal's spiritual hubs, from the birthplace of Buddha to the peaceful Himalayan landscapes.
+                  Find tranquility in Nepal&apos;s spiritual hubs, from the birthplace of Buddha to the peaceful Himalayan landscapes.
                   </p>
                 </div>
               </li>
@@ -452,7 +452,7 @@ const Home: NextPage = () => {
               <div className="mt-2">
                 <h1 className={styles.sub_section_heading}>LIVING HERITAGE</h1>
                 <p className={styles.section_text}>
-                In this land of diverse ethnic groups, traditions weave through the tapestry of everyday life. From the vibrant festivals like Dashain and Tihar to the ancient temples and palaces of Kathmandu Durbar Square, Nepal's cultural richness unfolds in every corner. Explore the living heritage sites, witness traditional arts and crafts, and engage with warm-hearted locals eager to share their stories. As you journey through this enchanting landscape, you'll discover that Nepal's true beauty lies not only in its majestic mountains but also in the vibrant, welcoming communities that make it a unique and unforgettable experience.
+                In this land of diverse ethnic groups, traditions weave through the tapestry of everyday life. From the vibrant festivals like Dashain and Tihar to the ancient temples and palaces of Kathmandu Durbar Square, Nepal's cultural richness unfolds in every corner. Explore the living heritage sites, witness traditional arts and crafts, and engage with warm-hearted locals eager to share their stories. As you journey through this enchanting landscape, you&apos;ll discover that Nepal&apos;s true beauty lies not only in its majestic mountains but also in the vibrant, welcoming communities that make it a unique and unforgettable experience.
                 </p>
               </div>
             </div>
