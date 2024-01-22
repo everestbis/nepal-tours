@@ -1,34 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Welcome to NepalTours App
+
+NepalTours is a cutting-edge tourism website app developed using Next.js, GSAP, Bootstrap, and SCSS. 
+
+## Table of Contents
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
 
 ## Getting Started
 
-First, run the development server:
+To get started with NepalTours, follow these simple steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### Installation
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/everestkid/nepal-tours.git
+   ```
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+2. Navigate to the project directory:
+   ```bash
+   cd nepal-tours
+   ```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Usage
 
-## Learn More
+1. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+2. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to explore NepalTours.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technologies Used
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **Next.js:** A React-based framework for building fast and scalable web applications.
+ 
+- **GSAP (GreenSock Animation Platform):** A powerful JavaScript animation library for creating smooth and interactive animations.
 
-## Deploy on Vercel
+- **Bootstrap:** A popular CSS framework for creating responsive and mobile-first websites.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **SCSS:** A preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contributing
+
+We welcome contributions from the community. If you find any issues or have ideas for improvements, please feel free to open an issue or submit a pull request. 
+
+## License
+
+This project is licensed under the MIT License.
+
+Happy traveling with NepalTours! 🌍✈️
