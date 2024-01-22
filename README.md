@@ -3,7 +3,7 @@
 NepalTours is a cutting-edge tourism website app developed using Next.js, GSAP, Bootstrap, and SCSS.
 
 ## Demo
-[https://nepal-tours.netlify.app]
+https://nepal-tours.netlify.app
 
 
 ## Table of Contents
